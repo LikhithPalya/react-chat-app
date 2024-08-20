@@ -32,10 +32,6 @@ Welcome to the **React + Firebase Chat App**! This application allows you to con
 - **Firebase Authentication:** Secure user authentication and management.
 - **Firebase Firestore:** Real-time database to store and sync chat messages.
 
-## 📸 Screenshots
-
-_Include screenshots here to showcase your app's UI and functionality._
-
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
